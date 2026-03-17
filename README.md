@@ -1,5 +1,9 @@
 # Zotero2reMarkable Bridge
 
+```bash
+source /Users/niclc/Library/Caches/pypoetry/virtualenvs/zrm-b4LaF9GK-py3.14/bin/activate
+```
+
 This program can be used to sync attachments from Zotero to your ReMarkable
 *and* sync them back to Zotero again.
 
